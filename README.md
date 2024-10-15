@@ -1,5 +1,6 @@
-[![Proteus](https://img.shields.io/badge/Proteus-%230079C1.svg?style=flat&logo=proteus&logoColor=white)](https://www.labcenter.com/)	
-![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![Proteus](https://img.shields.io/badge/Proteus-%230079C1.svg?style=flat&logo=proteus&logoColor=white)](https://www.labcenter.com/)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=flat&logo=arduino&logoColor=white)]
+
 
 # DC-DC Buck-Converter
 The name “Buck Converter” presumably evolves from the fact that the input voltage is bucked/chopped or attenuated, in amplitude and a lower amplitude voltage appears at the output. An external diode, together with an external inductor and output capacitor, produces the regulated DC output. Buck or step-down converters produce an average output voltage lower than the input source voltage. 
