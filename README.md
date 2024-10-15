@@ -1,6 +1,6 @@
 <p align="center">
 	
-  [![Proteus](https://img.shields.io/badge/Proteus-%230079C1.svg?style=flat&logoColor=white)](https://www.labcenter.com/)
+  [![Proteus](https://img.shields.io/badge/Proteus-%230079C1.svg?style=flat&logo=proteus&logoColor=white)](https://www.labcenter.com/)
 	
   [![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 </p>
