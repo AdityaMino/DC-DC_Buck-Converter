@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Proteus -->
-  [![Proteus](https://img.shields.io/badge/Proteus-%230079C1.svg?style=flat&logo=proteus&logoColor=white)](https://www.labcenter.com/)
+  <img src="https://img.shields.io/badge/Proteus-31A8E0?style=for-the-badge&logo=proteus&logoColor=white" alt="Proteus" height="50" />
 
   <!-- Arduino IDE -->
   [![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/)
