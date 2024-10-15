@@ -17,7 +17,8 @@ This conversion method is more efficient than voltage division, where unwanted p
 
 ## Introduction
 ![image](https://github.com/user-attachments/assets/2e7f7710-cdb4-4996-8eba-17bf39216707)
-Basic Block Diagram of Buck Converter
+
+**Basic Block Diagram of Buck Converter**
 
 The Buck converter is the most widely used for traction motor control in electric automobiles, mine haulers, marine hoists, trolley cars, and forklift trucks. The buck converter is also called a step-down. In this project, we are going to make a Buck Converter Circuit using Arduino and N-Channel Power MOSFET (540N) with a maximum current capacity of 33 A. We are going to step down 12V DC to around 5.5-6V. Digital control design is done with use of Arduino Uno microcontroller. This microcontroller is used to produce Pulse Width Modulation (PWM) signal with constant duty cycle to drive the switch of the converter. The switch then will alternate turn the converter on and off to produce regulated voltage.
 
